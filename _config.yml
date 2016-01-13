@@ -13,3 +13,4 @@ domain_name: 'http://inhobaek.github.io'
 # Details for the RSS feed generator
 url:            'inhobaek.github.io'
 author:         'Inho Baek'
+email:          'inho.baek@nhnent.com'
